@@ -1,2 +1,3 @@
-# apresentacao_osm
-Apresentação Introdutória do OpenStreetMap
+# Apresentação Introdutória do OpenStreetMap
+
+Licença de uso: use a vontade, apenas referencie a fonte.
